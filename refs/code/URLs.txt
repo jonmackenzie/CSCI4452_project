@@ -1,0 +1,23 @@
+https://github.com/jmespadero/pyDelaunay2D
+
+Delaunay via Bowyer-Watson in numpy
+
+=====
+
+https://code.activestate.com/recipes/579021-delaunay-triangulation/
+
+S-hull Delaunay in numpy
+
+=====
+
+https://github.com/jeffythedragonslayer/lipton-tarjan
+
+Lipton-Tarjan in C++ (seems complicated)
+
+=====
+
+https://github.com/ValeryTyumen/lipton_tarjan
+
+Lipton-Tarjan in python
+
+
